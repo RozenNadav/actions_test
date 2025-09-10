@@ -1,0 +1,13 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "A minimal Node.js app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo 'Building project...' && exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
